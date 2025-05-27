@@ -1,4 +1,4 @@
-# Technical_Laymen_Corpus
+# Technical-Laymen Corpus (TLC)
 
 The Technical-Laymen Corpus (TLC) is an annotated data set based on texts from Med1.de. Med1 is a former German patient forum that provides a large variety of health related topics. Users are non-professionals who seek for exchange, opinions and advice. Our annotation involves two different concepts: (1) lay expressions and (2) technical terms. Regarding those information we mainly focus on symptoms, diseases, as well as treatments and examinations. However annotators were free to also label information that goes beyond the focus information (e.g. body parts, medication). In addition to the concept label the counterpart synonym or explanation is given as free text. More Information can be found <a href="https://aclanthology.org/2020.lrec-1.759/">here</a>. Here is the link to the <a href="https://drive.google.com/file/d/1cqA7LbY0bW3avqaLOLnfITJl9JjhBOn8/view?usp=sharing">original first version</a> of the data, and here the link to the <a href="https://drive.google.com/file/d/1Sehzaoc3p7oJYJ54Tu-f-c32rmwQFfQ_/view?usp=sharing">improved revised version</a> (suggested version).
 
